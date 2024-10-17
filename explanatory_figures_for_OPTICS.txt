@@ -1,0 +1,4 @@
+This script generates figures for understanding the operation of the OPTICS algorithms. 
+The figure for generating point M core distance is fixed for colors for explanatory purposes.
+There is a distinction between epsilon max and extraction of the clusters from the reachability plot again for explanatory purposes. 
+The script can be run by python OPTICS_explained.py
